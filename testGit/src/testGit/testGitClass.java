@@ -2,6 +2,6 @@ package testGit;
 
 public class testGitClass {
 
-  //Hello World
+	//Kill that noise
 
 }
